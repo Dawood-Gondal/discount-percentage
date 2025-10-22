@@ -1,0 +1,23 @@
+{
+    "name": "m2commerce/discount-percentage",
+    "description": "Magento 2 module to show discount percentage on PDP and PLP.",
+    "type": "magento2-module",
+    "require": {
+        "php": "^8.1 || ^8.2 || ^8.3",
+        "magento/framework": "103.0.*"
+    },
+    "authors": [
+        {
+            "name" : "Dawood Gondal",
+            "email" : "dawoodgondaldev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "M2Commerce\\DiscountPercentage\\": ""
+        }
+    }
+}
