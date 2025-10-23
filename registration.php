@@ -12,6 +12,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'M2Commerce_Discountpercentage',
+    'M2Commerce_DiscountPercentage',
     __DIR__
 );

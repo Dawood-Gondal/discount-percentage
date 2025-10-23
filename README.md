@@ -18,7 +18,8 @@ There are several configuration options for this extension, which can be found a
 # Installation
 You can download code from this repo under Magento® 2 following directory:
 
-app/code/M2Commerce/DiscountPercentage
+```app/code/M2Commerce/DiscountPercentage```
+
 Enter following commands to enable the module:
 
 ```
